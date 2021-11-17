@@ -20,4 +20,4 @@ will allow the user to login via email and password (we should make 3/4 default 
 -on login successful proceed to page 4
 
 page four:
-users can select from cards listed on their account to pay, or input on new card
+users can select from cards listed on their account to pay, or input on new card, and "pay" for ticket
