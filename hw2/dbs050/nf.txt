@@ -1,0 +1,63 @@
+hw2_1nf_difficult
+PK  Y
+1NF  Y
+2NF  N
+3NF  N
+BCNF  N
+
+hw2_2nf_not3nf
+PK  Y
+1NF  Y
+2NF  Y
+3NF  N
+BCNF  N
+
+hw2_3nf_notbcnf_2
+PK  Y
+1NF  Y
+2NF  Y
+3NF  Y
+BCNF  N
+
+hw2_bcnf
+PK  Y
+1NF  Y
+2NF  Y
+3NF  Y
+BCNF  Y
+
+hw2_bcnf_2
+PK  Y
+1NF  Y
+2NF  Y
+3NF  Y
+BCNF  Y
+
+hw2_compositepk_3: Invalid Inputhw2_invalidPKk_not1NF
+PK  Y
+1NF  N
+2NF  N
+3NF  N
+BCNF  N
+
+hw2_large_1
+PK  Y
+1NF  Y
+2NF  Y
+3NF  N
+BCNF  N
+
+hw2_large_3
+PK  Y
+1NF  Y
+2NF  N
+3NF  N
+BCNF  N
+
+hw2_pkbad_3
+PK  Y
+1NF  N
+2NF  N
+3NF  N
+BCNF  N
+
